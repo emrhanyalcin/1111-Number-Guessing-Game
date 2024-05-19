@@ -84,8 +84,8 @@ If you reach the 15th round, the game is a draw.
 > We chose it because it greatly simplifies the game development experience.
 
 
-My friends who helped me in this project: :raccoon:
-- [Emirhan Yalçın](https://github.com/emrhanyalcin) :gorilla:
+My friends who helped me in this project: :gorilla:
+- [Anıl YETİM](https://github.com/anlyetim) :raccoon:
 - [Bilal KORKMAZ](https://github.com/bilkorkmaz) :llama:
 - [Salih Sercan TURGUT](url) :polar_bear:
   
